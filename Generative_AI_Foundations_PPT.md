@@ -7,8 +7,8 @@
 ### **Generative AI Foundations**
 #### What is Generative AI + Differences from Discriminative AI
 
-**Presented by:** [Your Name]  
-**Date:** [Current Date]  
+**Presented by:** Aamruth Venkatesh  
+**Date:** 8/8/25  
 **Course:** AI/ML Fundamentals
 
 ---
@@ -331,14 +331,14 @@ print(f"This is a {prediction} with {confidence}% confidence")
 ### **Questions & Answers**
 
 #### **📧 Contact Information:**
-- Email: [your.email@domain.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Repository]
+- **Presenter:** Aamruth Venkatesh
+- **LinkedIn:** https://www.linkedin.com/in/aamruth-venkatesh/
+- **GitHub:** https://github.com/Amruth22
 
 #### **📖 Resources:**
-- Course Materials: [Link to course resources]
-- Practice Exercises: [Link to exercises]
-- Additional Reading: [Link to recommended papers]
+- **Repository:** https://github.com/Amruth22/Generative-AI-Foundations-mcq-and-ppt
+- **Course Materials:** Available in this repository
+- **Practice Exercises:** MCQs and additional resources included
 
 **Thank you for your attention!**  
 **Any questions?**
@@ -346,5 +346,7 @@ print(f"This is a {prediction} with {confidence}% confidence")
 ---
 
 *Total Slides: 19*  
+*Presented by: Aamruth Venkatesh*  
+*Date: 8/8/25*  
 *Topic: Generative AI Foundations - What is Generative AI + Differences from Discriminative AI*  
 *Format: Markdown-based PowerPoint Presentation*
